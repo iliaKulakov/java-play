@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java-play.iml" filepath="$PROJECT_DIR$/java-play.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-play_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-play_main.iml" group="java-play" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-play_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-play_test.iml" group="java-play" />
     </modules>
   </component>
 </project>
